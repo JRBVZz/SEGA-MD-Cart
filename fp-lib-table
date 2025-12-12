@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SEGA-Cart_lib")(type "KiCad")(uri "${KIPRJMOD}/SEGA-Cart_lib")(options "")(descr ""))
+)
