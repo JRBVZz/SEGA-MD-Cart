@@ -414,7 +414,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
+			(property "Reference" "U"
 				(at 1.8797 33.02 0)
 				(effects
 					(font
