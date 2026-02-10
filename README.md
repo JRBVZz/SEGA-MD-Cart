@@ -16,11 +16,11 @@
 * Рекомендуется ENIG покрытие контактов краевого разъема
 
 **Схемы**  
-[Schematic PDF](SEGA-Cart-Info/SEGA-Cart-Schematic.pdf) 
+[Schematic PDF](SEGA-Cart-Info/SEGA-Cart-Schematic.pdf)  
 [Schematic PDF SOP](SEGA-Cart-Info/SEGA-Cart-SOP-Schematic.pdf)
 
 **Интерактивный BOM**  
-[BoM](SEGA-Cart-Info/SEGA-Cart-iBOM.html) (для корректного просмотра нужно скачать raw файл) 
+[BoM](SEGA-Cart-Info/SEGA-Cart-iBOM.html) (для корректного просмотра нужно скачать raw файл)  
 [BoM-SOP](SEGA-Cart-Info/SEGA-Cart-SOP-iBOM.html) (для корректного просмотра нужно скачать raw файл)
 
 Проект создан в [**KiCad 9**](https://www.kicad.org/).
